@@ -13,9 +13,8 @@ Senior Back End Software Engineer
 -----------------------------------
 Profile
 -----------------------------------
-Senior Software Engineer with 7 years of experience 
-building API-based web services in Golang and 
-AWS/Kubernetes-based applications.
+Senior Back End Software Engineer with 7 years of back end experience in 
+Golang and AWS/Kubernetes-based applications.
 
 -----------------------------------
 Employment History
